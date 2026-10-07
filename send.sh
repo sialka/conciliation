@@ -1,0 +1,1 @@
+cp *.csv /mnt/c/Users/sidnei/Desktop/CCB/08-2026/
