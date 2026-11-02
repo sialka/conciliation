@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches e ambientes virtuais
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Arquivos de saída locais de conciliação
+01_conciliados.csv
+02_pendentes_extrato.csv
+03_pendentes_siga.csv
+*.xlsx
+
